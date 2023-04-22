@@ -15,7 +15,6 @@
 
 ## 📝Project Summary:-
 > I have created URL Hit Counter using Spring Boot and I have used java Programming Language int this Project.  In this I will see count of User hit from url.
-Thank You❤️
 
 
 
